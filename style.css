@@ -12,6 +12,14 @@ form {
   padding: 20px;
 }
 
+.pizza {
+  width: 100px;
+  margin: 40px auto -30px auto;
+  display: block;
+  position: relative;
+  top: -30px;
+}
+
 html {
   visibility: visible;
   opacity: 1;
